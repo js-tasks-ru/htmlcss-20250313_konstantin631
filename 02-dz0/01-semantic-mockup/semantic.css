@@ -1,0 +1,56 @@
+/* styles.css */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    text-align: center;
+}
+
+.h1-text {
+    background-color: red;
+    margin: 0;
+    padding: 20px 0;
+}
+
+nav {
+    background-color: orange;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.main-content {
+    background-color: green;
+    flex: 1;
+    padding: 20px;
+}
+
+article {
+    background-color: blue;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.footer {
+    background-color: purple;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+}
