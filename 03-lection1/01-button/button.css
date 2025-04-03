@@ -46,7 +46,11 @@
 
 .button__alternate {
     background-color: var(--white);
-    color: var(--gray-4);
+    color: var(--grey-4);
     border: 1px solid;
-    border-color: var(--gray-3);
+    border-color: var(--grey-3);
+}
+
+.button__alternate:hover {
+    border-color: #212429;
 }
