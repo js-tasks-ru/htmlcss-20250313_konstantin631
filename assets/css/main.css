@@ -5,6 +5,7 @@
 @import '../../components/header/header.css';
 @import '../../components/main/main.css';
 @import '../../components/page/page.css';
+@import '../../components/container/container.css';
 
 
 :root {

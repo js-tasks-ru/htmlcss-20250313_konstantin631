@@ -3,11 +3,6 @@
     padding: 96px 0 77px;
 }
 
-.header__container {
-    width: var(--container-width);
-    margin: 0 auto;
-  }
-
 .header__title {
     color: var(--black);
     font-family: 'Inter';
