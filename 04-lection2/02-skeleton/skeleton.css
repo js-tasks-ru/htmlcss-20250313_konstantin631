@@ -39,11 +39,11 @@
   }
   
   .skeleton__row_short {
-    width: 172px;
+    width: 40%;
   }
   
   .skeleton__row_medium {
-    width: 257px;
+    width: 60%;
   }
   
   .skeleton__row_full {
