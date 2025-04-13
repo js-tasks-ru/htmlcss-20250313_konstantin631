@@ -1,3 +1,14 @@
 .main {
     background-color: var(--white-main);
 }
+
+.main__container {
+    width: var(--container-width);
+    margin: 68px auto 204px;
+  }
+
+.main__cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
