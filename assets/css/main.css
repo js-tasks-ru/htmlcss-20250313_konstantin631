@@ -1,4 +1,5 @@
 @import '../fonts/fonts.css';
+@import '../../components/normalize.css';
 
 @import '../../components/normalize.css';
 @import '../../components/footer/footer.css';
